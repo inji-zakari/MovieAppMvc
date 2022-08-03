@@ -1,0 +1,12 @@
+li {
+    display: inline;
+  }
+  .navbar li {
+    margin: 5px;
+    padding: 0;
+    width: 80px;
+    float: left;
+  }
+  .navbar{
+    background-color: brown;
+  }
